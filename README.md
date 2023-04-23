@@ -4,3 +4,5 @@
 `GAN_face.py`使用卷积与反卷积构成生成器与判别器
 
 `GAN_face_linear.py`使用简单线性层构造GAN网络
+
+数据集下载地址 https://pan.baidu.com/s/17EoR4ry2pFYvICrNiekiHw?pwd=bztc
